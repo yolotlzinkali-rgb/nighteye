@@ -215,7 +215,7 @@
       <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
     </div>
 <div class="card product">
-      <img src="img/platina.png" alt="Lentes Platina" style="width:100%;border-radius:10px">
+      <img src="img/platino.png" alt="Lentes Platino" style="width:100%;border-radius:10px">
       <h3>Lentes Platina</h3>
       <span class="price">$330</span>
       <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
