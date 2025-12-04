@@ -142,19 +142,13 @@
       <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
     </div>
     <div class="card product">
-      <img src="img/clasicosR.png" alt="Lentes Clásicos Rojos" style="width:100%;border-radius:10px">
+      <img src="img/clasicoR.png" alt="Lentes Clásicos Rojos" style="width:100%;border-radius:10px">
       <h3>Lentes Clásicos Rojos</h3>
       <span class="price">$500</span>
       <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
     </div>
 <div class="card product">
-      <img src="img/Aesthetic.png" alt="Lentes Aesthetic" style="width:100%;border-radius:10px">
-      <h3>Lentes Aesthetic</h3>
-      <span class="price">$550</span>
-      <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
-    </div>
-<div class="card product">
-      <img src="img/clasicos.png" alt="Lentes Clásicos" style="width:100%;border-radius:10px">
+      <img src="img/clasico.png" alt="Lentes Clásicos" style="width:100%;border-radius:10px">
       <h3>Lentes Clásicos </h3>
       <span class="price">$600</span>
       <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfZxmOORq8K-snpW0SYIOmhqHqzUzczmnhfzK3egm0NFFPUtg/viewform?usp=header" target="_blank">Comprar</a>
